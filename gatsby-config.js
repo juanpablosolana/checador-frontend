@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Control de acceso Texnova`,
+    description: `Frontend del proyecto de checador para el control de faltas y retardos de los empleados`,
     author: `@gatsbyjs`,
   },
   plugins: [
