@@ -1,14 +1,16 @@
 import * as React from "react"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
-import Login from '../components/login'
+import Login from '../components/Login'
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import Seo from "../components/Seo"
 
 const IndexPage = () => (
+  <>
+  <Seo title="Iniciar sesión" />
     <Login />
-
+</>
   // <Layout>
 
   //   <Seo title="Inicio" />
